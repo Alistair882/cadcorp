@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zMTTxQgycEIizu8X2ooPmSnFP+L1vdBqO8PyE1P7GvA=",
+  "Source": "loadToDatabase",
+  "BasePath": "_content/loadToDatabase",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
