@@ -13,7 +13,6 @@ namespace loadToDatabase.Helpers
         {
             Map(m => m.Address).Name("Address");
             Map(m => m.Postcode).Name("Postcode");
-            // Do NOT map Id, so CsvHelper ignores it
         }
     }
 }
